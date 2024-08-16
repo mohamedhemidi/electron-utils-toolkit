@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './base.css';
+
+body {
+  background-color: #202127;
+}
